@@ -192,7 +192,7 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="291" />
+                                      <option name="length" value="71" />
                                       <option name="offset" value="126" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
@@ -213,8 +213,8 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="127" />
-                                      <option name="offset" value="854" />
+                                      <option name="length" value="128" />
+                                      <option name="offset" value="610" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="" />
@@ -234,8 +234,8 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="127" />
-                                      <option name="offset" value="854" />
+                                      <option name="length" value="128" />
+                                      <option name="offset" value="610" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="" />
@@ -256,7 +256,7 @@
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="219" />
-                                      <option name="offset" value="1123" />
+                                      <option name="offset" value="880" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="" />
@@ -277,7 +277,7 @@
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="272" />
-                                      <option name="offset" value="1609" />
+                                      <option name="offset" value="1366" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="" />
@@ -298,7 +298,7 @@
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="562" />
-                                      <option name="offset" value="2021" />
+                                      <option name="offset" value="1778" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="" />
@@ -439,6 +439,20 @@
                                 <option name="text" value="JjCPW8FuEei-Lw5ra1tlSg" />
                                 <option name="trackChanges" value="true" />
                                 <option name="visible" value="false" />
+                              </TaskFile>
+                            </value>
+                          </entry>
+                          <entry key="src/taxipark/OtherTaxiParkTask.kt">
+                            <value>
+                              <TaskFile>
+                                <option name="answerPlaceholders">
+                                  <list />
+                                </option>
+                                <option name="highlightErrors" value="true" />
+                                <option name="name" value="src/taxipark/OtherTaxiParkTask.kt" />
+                                <option name="text" value="" />
+                                <option name="trackChanges" value="true" />
+                                <option name="visible" value="true" />
                               </TaskFile>
                             </value>
                           </entry>

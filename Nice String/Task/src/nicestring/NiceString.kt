@@ -25,7 +25,7 @@ fun String.otherIsNice(): Boolean {
     val hasThreeVowel = count { it in "aeiou" } >= 3
     val hasDouble = zipWithNext().any { it.first == it.second }
 
-    val conditions = listOf(noBadSubstring, hasThreeVowel, hasDouble).filter { it == true }.size
+    val conditions = listOf(noBadSubstring, hasThreeVowel, hasDouble).filter { it }.size
     return conditions >= 2
 }
 
